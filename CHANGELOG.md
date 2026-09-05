@@ -1,6 +1,10 @@
 
 # Change Log
 
+## v5.4 - 2026-09-05
+- file explorer sidebar for local files
+- table of contents moves to the right when the file explorer is enabled
+
 ## v5.3 - 2024-04-30
 - custom theme support
 - syntax highlighted raw markdown view
